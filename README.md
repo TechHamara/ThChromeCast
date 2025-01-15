@@ -7,6 +7,9 @@ An extension for MIT App Inventor 2.<br>
 Developed by th using Fast.
 </div>
 
+## Library Usage 
+https://github.com/vitalidze/chromecast-java-api-v2
+
 ## 📝 Specifications
 * **
 💾 **Size:** 4.20 MB
