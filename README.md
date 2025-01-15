@@ -1,5 +1,5 @@
 ## ThChromeCast
-Chromecast Extension to interact with Chromecast devices
+Chromecast Extension for app inventor to interact with Chromecast devices
 
 <div align="center">
 <h1><kbd>🧩 ThChromeCast</kbd></h1>
