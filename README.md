@@ -281,3 +281,10 @@ Returns the current value of the autoReconnect setting.
 
 * Return type: `boolean`
 
+<br><br>
+## How to Contribute
+We welcome your contributions to this project.
+
+The best way to submit a patch is to send us a pull request.
+
+To report a specific problem or feature request, open a new issue on Github.
