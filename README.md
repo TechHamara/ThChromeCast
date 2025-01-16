@@ -285,6 +285,6 @@ Returns the current value of the autoReconnect setting.
 ## How to Contribute
 We welcome your contributions to this project.
 
-The best way to submit a patch is to send us a [pull request]([this](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)).
+The best way to submit a patch is to send us a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
 To report a specific problem or feature request, open a new issue on Github.
