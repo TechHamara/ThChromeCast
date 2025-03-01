@@ -12,12 +12,14 @@ https://github.com/vitalidze/chromecast-java-api-v2
 
 ## 📝 Specifications
 * **
-💾 **Size:** 4.20 MB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-01-15 timezone="Indian/Maldives"]
-💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)
+💾 **Size:** 4.20 MB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-01-15 timezone="Indian/Maldives"]<br>
+💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)<br>
 
+Download aix [here](https://github.com/TechHamara/ThChromeCast/blob/main/th-chrome-cast/out/io.th.thchromecast.thchromecast.aix)
+<br><br>
 ## <kbd>Events:</kbd>
 **ThChromeCast** has total 13 events.
 
